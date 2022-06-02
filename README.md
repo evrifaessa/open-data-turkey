@@ -34,8 +34,11 @@
 ### İzmir
 * [İzmir Open Data Portal](https://acikveri.bizizmir.com/) (by İzmir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
-### Balıkesir
+### Konya
 * [Konya Open Data Portal](https://acikveri.konya.bel.tr/) (by Konya MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+### Bursa
+* [Açık Yeşil Open Data Portal](https://acikyesil.bursa.bel.tr/) (by Bursa MM) (licensed under [Bursa Metropolitan Municipality Open Data License](https://acikyesil.bursa.bel.tr/lisans))
 
 ### Balıkesir
 * [BBB Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
