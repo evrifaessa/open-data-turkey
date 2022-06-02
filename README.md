@@ -26,7 +26,7 @@
 
 ## Published by municipal governments
 ### İstanbul
-* [İBB Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). (licensed under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license))
+* [İstanbul Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). (licensed under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license))
 #### Published by districts under İstanbul
 * [Beyoğlu Open Data Portal](https://acikveri.beyoglu.bel.tr/) (see [here](https://acikveri.beyoglu.bel.tr/page/bn3d2-8j3az) for Terms of Use)
 * [Küçükçekmece Open Data Portal](https://acikveri.kucukcekmece.bel.tr/) (licensed under [Küçükçekmece Municipality Open Data License](https://acikveri.kucukcekmece.bel.tr/licence))
@@ -41,4 +41,4 @@
 * [Açık Yeşil Open Data Portal](https://acikyesil.bursa.bel.tr/) (by Bursa MM) (licensed under [Bursa Metropolitan Municipality Open Data License](https://acikyesil.bursa.bel.tr/lisans))
 
 ### Balıkesir
-* [BBB Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+* [Balıkesir Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
