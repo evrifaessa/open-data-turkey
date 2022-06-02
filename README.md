@@ -1,4 +1,4 @@
-# :tr: Open data index of Turkey
+# 🇹🇷 Open data index of Turkey
 [A comprehensive open data index of Turkey](https://github.com/evrifaessa/open-data-turkey). This repository lists open data portals made public by municipal governments and the government of Turkey.
 
 ### Why?
