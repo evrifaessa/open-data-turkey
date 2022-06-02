@@ -13,7 +13,7 @@ If you are a citizen, please encourage state and municipal organizations to publ
 |--------------|----------------------|
 | ⚠️ | License unclear                |
 | 💵 | Requires payment               |
-| 👁️ | Not available to the public    |
+| 👁️ | Private/requires registration  |
 | 🕗 | Outdated/abandoned             |
 | 📠 | Not machine-readable/no API    |
 | ⏳ | No historical data             |
