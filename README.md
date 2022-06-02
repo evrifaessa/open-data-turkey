@@ -13,8 +13,8 @@
 -----
 
 **Table of contents:**
-* [Published by the Turkish Government](https://github.com/evrifaessa/open-data-turkey/edit/main/README.md#published-by-the-turkish-government)
-* [Published by municipal governments](https://github.com/evrifaessa/open-data-turkey/edit/main/README.md#published-by-municipal-governments)
+* [Published by the Turkish Government](https://github.com/evrifaessa/open-data-turkey/blob/main/README.md#published-by-the-turkish-government)
+* [Published by municipal governments](https://github.com/evrifaessa/open-data-turkey/blob/main/README.md#published-by-municipal-governments)
 
 -----
 
