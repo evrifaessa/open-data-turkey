@@ -23,6 +23,7 @@ If you are a citizen, please encourage state and municipal organizations to publ
 **Table of contents:**
 * [Published by the Turkish Government](https://github.com/evrifaessa/open-data-turkey/blob/main/README.md#published-by-the-turkish-government)
 * [Published by municipal governments](https://github.com/evrifaessa/open-data-turkey/blob/main/README.md#published-by-municipal-governments)
+* [Published by companies](https://github.com/evrifaessa/open-data-turkey/blob/main/README.md#published-by-companies)
 
 -----
 
@@ -54,8 +55,8 @@ If you are a citizen, please encourage state and municipal organizations to publ
 ### Balıkesir
 * [Balıkesir Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
-## Data published by other companies
-### Data published by banks
+## Published by companies
+### By banks
 #### Fees
 Following [this](https://www.bddk.org.tr/Mevzuat/DokumanGetir/907) circular issued by BDDK (the organization that regulates and supervises the banks) in 2011, banks have become obligated to openly publish every fee they receive from their individual customers. Here are the endpoints:
 * [Akbank T.A.Ş.](https://www.akbank.com/TuketiciVerileri/TuketiciVerileri.xml)
