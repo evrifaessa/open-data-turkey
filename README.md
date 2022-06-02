@@ -53,3 +53,28 @@ If you are a citizen, please encourage state and municipal organizations to publ
 
 ### Balıkesir
 * [Balıkesir Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+## Data published by other companies
+### Data published by banks
+#### Fees
+Following [this](https://www.bddk.org.tr/Mevzuat/DokumanGetir/907) circular issued by BDDK (the organization that regulates and supervises the banks) in 2011, banks have become obligated to openly publish every fee they receive from their individual customers. Here are the endpoints:
+* [Akbank T.A.Ş.](https://www.akbank.com/TuketiciVerileri/TuketiciVerileri.xml)
+* [Albaraka Türk Katılım Bankası A.Ş.](https://www.albaraka.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Alternatifbank A.Ş.](https://www.alternatifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Burgan Bank A.Ş.](https://www.burgan.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Citibank](https://www.citibank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [DenizBank A.Ş.](https://www.denizbank.com/TuketiciVerileri/TuketiciVerileri.xml)
+* [Fibabanka A.Ş.](https://www.fibabanka.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [HSBC Bank A.Ş.](https://www.hsbc.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Kuveyt Türk Katılım Bankası A.Ş.](https://www.kuveytturk.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Odeabank A.Ş.](https://www.odeabank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Şekerbank T.A.Ş.](https://www.sekerbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [QNB Finansbank A.Ş.](https://www.qnbfinansbank.com/TuketiciVerileri/TuketiciVerileri.xml)
+* [T. Garanti Bankası A.Ş.](https://www.garantibbva.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [T. Vakıflar Bankası T.A.O.](https://www.vakifbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml) (VakıfBank)
+* [T.C. Ziraat Bankası A.Ş.](https://www.ziraatbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Türk Ekonomi Bankası A.Ş.](https://www.teb.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Türkiye Finans Katılım Bankası A.Ş.](https://www.turkiyefinans.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Türkiye İş Bankası A.Ş.](https://www.isbank.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Vakıf Katılım Bankası A.Ş.](https://www.vakifkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
+* [Ziraat Katılım Bankası A.Ş.](https://www.ziraatkatilim.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
