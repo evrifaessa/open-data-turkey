@@ -11,7 +11,7 @@ If you are a citizen, please encourage state and municipal organizations to publ
 
 | Key          | Meaning              |
 |--------------|----------------------|
-| ⚠️ | Licensing concerns             |
+| ⚠️ | License unclear                |
 | 💵 | Requires payment               |
 | 👁️ | Not available to the public    |
 | 🕗 | Outdated/abandoned             |
