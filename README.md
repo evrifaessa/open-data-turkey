@@ -8,6 +8,7 @@
 | 👁️ | Not available to the public    |
 | 🕗 | Outdated/abandoned             |
 | 📠 | Not machine-readable/no API    |
+| ⏳ | No historical data             |
 
 -----
 
@@ -18,6 +19,7 @@
 -----
 
 ## Data published by the Turkish Government
-* [TÜİK data portal](https://data.tuik.gov.tr/) (by Turkish Statistical Institute, a.k.a. TurkStat). TÜİK publishes state-collected data on many subjects. Machine-readable exports can be obtained. Historical archives are accessible.
+* [TÜİK data portal](https://data.tuik.gov.tr/) (by Turkish Statistical Institute, a.k.a. TurkStat). TÜİK publishes state-collected data on many subjects. Machine-readable exports can be obtained.
 * [TÜİK Geographical Statistics Portal](https://cip.tuik.gov.tr/) (by Turkish Statistical Institute, a.k.a. TurkStat). A website that visualizes TÜİK's data on the Turkish map.
 * ⚠️ [Air Quality Data Bank](https://sim.csb.gov.tr/STN/STN_Report/DataBank) (by the Ministry of Environment, Urbanisation and Climate Change). **No license stated. You can't use it freely.** Displays air quality information received from various stations. ([See the data on a map](https://www.havaizleme.gov.tr/))
+* ⚠️ 📠 [Official Gazette of the Republic of Turkey](https://www.resmigazete.gov.tr/) Publishes the new legislation and other official announcements.
