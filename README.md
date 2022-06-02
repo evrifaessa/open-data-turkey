@@ -26,9 +26,12 @@
 
 ## Data published by municipal governments
 ### İstanbul
-* [İBB Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul Metropolitan Municipality). Publishes datasets collected by İBB and related organizations under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license). Also provides well-documented API endpoints for most of the datasets.
+* [İBB Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). Publishes datasets collected by İBB and related organizations under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license). Also provides well-documented API endpoints for most of the datasets.
 #### Published by districts under İstanbul
 * [Küçükçekmece Open Data Portal](https://acikveri.kucukcekmece.bel.tr/) (licensed under [Küçükçekmece Municipality Open Data License](https://acikveri.kucukcekmece.bel.tr/licence))
 
-#### Balıkesir
-* [BBB Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir Metropolitan Municipality) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+### İzmir
+* [İzmir Open Data Portal](https://acikveri.bizizmir.com/) (by İzmir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+### Balıkesir
+* [BBB Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
