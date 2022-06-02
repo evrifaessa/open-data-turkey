@@ -26,7 +26,7 @@
 
 ## Published by municipal governments
 ### İstanbul
-* [İBB Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). Publishes datasets collected by İBB and related organizations under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license). Also provides well-documented API endpoints for most of the datasets.
+* [İBB Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). (licensed under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license))
 #### Published by districts under İstanbul
 * [Küçükçekmece Open Data Portal](https://acikveri.kucukcekmece.bel.tr/) (licensed under [Küçükçekmece Municipality Open Data License](https://acikveri.kucukcekmece.bel.tr/licence))
 
