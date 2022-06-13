@@ -4,7 +4,6 @@
 ### Why?
 Turkey definitely needs some improvement on transparency. As developers and citizens, we often have a hard time finding decent data about our country. I listed the resources I could find to make this already difficult process a little easier. Please contribute to this list.
 
-
 If you are a citizen, please encourage state and municipal organizations to publish data that should be ours.
 
 ### Legend
