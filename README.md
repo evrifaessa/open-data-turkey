@@ -59,8 +59,11 @@ If you are a citizen, please encourage state and municipal organizations to publ
 * [Balıkesir Open Data Portal](https://acikveri.balikesir.bel.tr/) (by Balıkesir MM) (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
 ## Published by companies
-### By banks
-#### Fees
+### Economy
+* ⚠️ 📠 [Banking Sector Data](https://www.bddk.org.tr/Veri/Index/72) (by the Banking Regulation and Supervision Agency (BDDK))
+* ⚠️ 📠 [Non-Bank Financial Institutions' Data](https://www.bddk.org.tr/Veri/Index/73) (by the Banking Regulation and Supervision Agency (BDDK))
+#### Banks
+##### Fees
 Following [this](https://www.bddk.org.tr/Mevzuat/DokumanGetir/907) circular issued by BDDK (the organization that regulates and supervises the banks) in 2011, banks have become obligated to openly publish every fee they receive from their individual customers. Here are the endpoints:
 * [Akbank T.A.Ş.](https://www.akbank.com/TuketiciVerileri/TuketiciVerileri.xml)
 * [Albaraka Türk Katılım Bankası A.Ş.](https://www.albaraka.com.tr/TuketiciVerileri/TuketiciVerileri.xml)
