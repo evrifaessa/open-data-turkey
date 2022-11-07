@@ -38,9 +38,10 @@ If you are a citizen, please encourage state and municipal organizations to publ
 
 ## Published by municipal governments
 ### İstanbul
-* [İstanbul Open Data Portal](https://data.ibb.gov.tr/en/) (by İstanbul MM). (licensed under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license))
-* [Beyoğlu Open Data Portal](https://acikveri.beyoglu.bel.tr/) (see [here](https://acikveri.beyoglu.bel.tr/page/bn3d2-8j3az) for Terms of Use)
-* [Küçükçekmece Open Data Portal](https://acikveri.kucukcekmece.bel.tr/) (licensed under [Küçükçekmece Municipality Open Data License](https://acikveri.kucukcekmece.bel.tr/licence))
+* [İstanbul](https://data.ibb.gov.tr/en/) (by İstanbul MM). (licensed under [İstanbul Metropolitan Municipality Open Data License](https://data.ibb.gov.tr/en/license))
+* [Beyoğlu](https://acikveri.beyoglu.bel.tr/) (see [here](https://acikveri.beyoglu.bel.tr/page/bn3d2-8j3az) for Terms of Use)
+* [Küçükçekmece](https://acikveri.kucukcekmece.bel.tr/) (licensed under [Küçükçekmece Municipality Open Data License](https://acikveri.kucukcekmece.bel.tr/licence))
+* [Tuzla](https://veri.tuzla.bel.tr/) (licensed under [CC BY 4.0](https://veri.tuzla.bel.tr/pages/license))
 
 ### Ankara
 * [Şeffaf Ankara](https://seffaf.ankara.bel.tr/) (by Ankara MM). (licensed under [Ankara Metropolitan Municipality Open Data License](https://seffaf.ankara.bel.tr/resources/images/hakkimizda/lisans.pdf))
