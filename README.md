@@ -60,6 +60,7 @@ If you are a citizen, please encourage state and municipal organizations to publ
 
 ## Published by companies
 ### Economy
+* ⚠️ [Electronic Data Delivery System](https://evds2.tcmb.gov.tr) (by The Central Bank of the Republic of Turkey (TCMB))
 * ⚠️ [TBB Data System](https://verisistemi.tbb.org.tr/) (by The Banks Association of Turkey (TBB))
 * ⚠️ 📠 [Banking Sector Data](https://www.bddk.org.tr/Veri/Index/72) (by the Banking Regulation and Supervision Agency (BDDK))
 * ⚠️ 📠 [Non-Bank Financial Institutions' Data](https://www.bddk.org.tr/Veri/Index/73) (by the Banking Regulation and Supervision Agency (BDDK))
